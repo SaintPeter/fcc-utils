@@ -1,0 +1,95 @@
+advanced-bonfires.json 	 bonfire 	 Validate US Telephone Numbers 	 telephoneCheck
+advanced-bonfires.json 	 bonfire 	 Symmetric Difference 	 sym
+advanced-bonfires.json 	 bonfire 	 Exact Change 	 drawer
+advanced-bonfires.json 	 bonfire 	 Inventory Update 	 inventory
+advanced-bonfires.json 	 bonfire 	 No repeats please 	 permAlone
+advanced-bonfires.json 	 bonfire 	 Friendly Date Ranges 	 friendly
+advanced-bonfires.json 	 bonfire 	 Map the Debris 	 orbitalPeriod
+advanced-bonfires.json 	 bonfire 	 Pairwise 	 pairwise
+basic-bonfires.json 	 bonfire 	 Reverse a String 	 reverseString
+basic-bonfires.json 	 bonfire 	 Factorialize a Number 	 factorialize
+basic-bonfires.json 	 bonfire 	 Check for Palindromes 	 palindrome
+basic-bonfires.json 	 bonfire 	 Find the Longest Word in a String 	 findLongestWord
+basic-bonfires.json 	 bonfire 	 Title Case a Sentence 	 titleCase
+basic-bonfires.json 	 bonfire 	 Return Largest Numbers in Arrays 	 largestOfFour
+basic-bonfires.json 	 bonfire 	 Confirm the Ending 	 end
+basic-bonfires.json 	 bonfire 	 Repeat a string repeat a string 	 repeat
+basic-bonfires.json 	 bonfire 	 Truncate a string 	 truncate
+basic-bonfires.json 	 bonfire 	 Chunky Monkey 	 chunk
+basic-bonfires.json 	 bonfire 	 Slasher Flick 	 slasher
+basic-bonfires.json 	 bonfire 	 Mutations 	 mutation
+basic-bonfires.json 	 bonfire 	 Falsy Bouncer 	 bouncer
+basic-bonfires.json 	 bonfire 	 Seek and Destroy 	 destroyer
+basic-bonfires.json 	 bonfire 	 Where do I belong 	 where
+basic-bonfires.json 	 bonfire 	 Caesars Cipher 	 rot13
+basic-javascript.json 	 checkpoint 	 Convert Celsius to Fahrenheit 	 convert
+basic-javascript.json 	 checkpoint 	 Word Blanks 	 wordBlanks
+basic-javascript.json 	 waypoint 	 Write Reusable JavaScript with Functions 	 ourFunction
+basic-javascript.json 	 waypoint 	 Passing Values to Functions with Arguments 	 ourFunction
+basic-javascript.json 	 waypoint 	 Global Scope and Functions 	 fun1
+basic-javascript.json 	 waypoint 	 Global Scope and Functions 	 fun2
+basic-javascript.json 	 waypoint 	 Local Scope and Functions 	 myFunction
+basic-javascript.json 	 waypoint 	 Global vs. Local Scope in Functions 	 myFunction
+basic-javascript.json 	 waypoint 	 Return a Value from a Function with Return 	 minusSeven
+basic-javascript.json 	 waypoint 	 Assignment with a Returned Value 	 change
+basic-javascript.json 	 waypoint 	 Assignment with a Returned Value 	 process
+basic-javascript.json 	 checkpoint 	 Stand in Line 	 queue
+basic-javascript.json 	 waypoint 	 Understanding Boolean Values 	 welcomeToBooleans
+basic-javascript.json 	 waypoint 	 Use Conditional Logic with If Statements 	 ourFunction
+basic-javascript.json 	 waypoint 	 Use Conditional Logic with If Statements 	 myFunction
+basic-javascript.json 	 waypoint 	 Comparison with the Equality Operator 	 myTest
+basic-javascript.json 	 waypoint 	 Comparison with the Strict Equality Operator 	 myTest
+basic-javascript.json 	 waypoint 	 Comparison with the Inequality Operator 	 myTest
+basic-javascript.json 	 waypoint 	 Comparison with the Strict Inequality Operator 	 myTest
+basic-javascript.json 	 waypoint 	 Comparison with the Greater Than Operator 	 myTest
+basic-javascript.json 	 waypoint 	 Comparison with the Greater Than Or Equal To Operator 	 myTest
+basic-javascript.json 	 waypoint 	 Comparison with the Less Than Operator 	 myTest
+basic-javascript.json 	 waypoint 	 Comparison with the Less Than Or Equal To Operator 	 myTest
+basic-javascript.json 	 waypoint 	 Comparisons with the Logical And Operator 	 myTest
+basic-javascript.json 	 waypoint 	 Comparisons with the Logical Or Operator 	 myTest
+basic-javascript.json 	 waypoint 	 Introducing Else Statements 	 myTest
+basic-javascript.json 	 waypoint 	 Introducing Else If Statements 	 myTest
+basic-javascript.json 	 waypoint 	 Logical Order in If Else Statements 	 myTest
+basic-javascript.json 	 waypoint 	 Chaining If Else Statements 	 myTest
+basic-javascript.json 	 checkpoint 	 Golf Code 	 golfScore
+basic-javascript.json 	 waypoint 	 Selecting from many options with Switch Statements 	 myTest
+basic-javascript.json 	 waypoint 	 Adding a default option in Switch statements 	 myTest
+basic-javascript.json 	 waypoint 	 Multiple Identical Options in Switch Statements 	 myTest
+basic-javascript.json 	 waypoint 	 Replacing If Else Chains with Switch 	 myTest
+basic-javascript.json 	 waypoint 	 Returning Boolean Values from Functions 	 isLess
+basic-javascript.json 	 waypoint 	 Return Early Pattern for Functions 	 abTest
+basic-javascript.json 	 checkpoint 	 Counting Cards 	 cc
+basic-javascript.json 	 waypoint 	 Using Objects for Lookups 	 phoneticLookup
+basic-javascript.json 	 waypoint 	 Testing Objects for Properties 	 checkObj
+basic-javascript.json 	 checkpoint 	 Record Collection 	 update
+basic-javascript.json 	 waypoint 	 Nesting For Loops 	 multiplyAll
+basic-javascript.json 	 checkpoint 	 Profile Lookup 	 lookUp
+basic-javascript.json 	 waypoint 	 Generate Random Fractions with JavaScript 	 myFunction
+basic-javascript.json 	 waypoint 	 Generate Random Whole Numbers with JavaScript 	 myFunction
+basic-javascript.json 	 waypoint 	 Generate Random Whole Numbers within a Range 	 ourFunction
+basic-javascript.json 	 waypoint 	 Generate Random Whole Numbers within a Range 	 randomRange
+basic-javascript.json 	 waypoint 	 Create a JavaScript Slot Machine 	 runSlots
+basic-javascript.json 	 waypoint 	 Add your JavaScript Slot Machine Slots 	 runSlots
+basic-javascript.json 	 waypoint 	 Bring your JavaScript Slot Machine to Life 	 runSlots
+basic-javascript.json 	 waypoint 	 Give your JavaScript Slot Machine some Stylish Images 	 runSlots
+intermediate-bonfires.json 	 bonfire 	 Sum All Numbers in a Range 	 sumAll
+intermediate-bonfires.json 	 bonfire 	 Diff Two Arrays 	 diff
+intermediate-bonfires.json 	 bonfire 	 Roman Numeral Converter 	 convert
+intermediate-bonfires.json 	 bonfire 	 Where art thou 	 where
+intermediate-bonfires.json 	 bonfire 	 Search and Replace 	 myReplace
+intermediate-bonfires.json 	 bonfire 	 Pig Latin 	 translate
+intermediate-bonfires.json 	 bonfire 	 DNA Pairing 	 pair
+intermediate-bonfires.json 	 bonfire 	 Missing letters 	 fearNotLetter
+intermediate-bonfires.json 	 bonfire 	 Boo who 	 boo
+intermediate-bonfires.json 	 bonfire 	 Sorted Union 	 unite
+intermediate-bonfires.json 	 bonfire 	 Convert HTML Entities 	 convert
+intermediate-bonfires.json 	 bonfire 	 Spinal Tap Case 	 spinalCase
+intermediate-bonfires.json 	 bonfire 	 Sum All Odd Fibonacci Numbers 	 sumFibs
+intermediate-bonfires.json 	 bonfire 	 Sum All Primes 	 sumPrimes
+intermediate-bonfires.json 	 bonfire 	 Smallest Common Multiple 	 smallestCommons
+intermediate-bonfires.json 	 bonfire 	 Finders Keepers 	 find
+intermediate-bonfires.json 	 bonfire 	 Drop it 	 drop
+intermediate-bonfires.json 	 bonfire 	 Steamroller 	 steamroller
+intermediate-bonfires.json 	 bonfire 	 Binary Agents 	 binaryAgent
+intermediate-bonfires.json 	 bonfire 	 Everything Be True 	 every
+intermediate-bonfires.json 	 bonfire 	 Arguments Optional 	 add

@@ -1,0 +1,96 @@
+File	Type	Title	Function	Needs Change	File|Type|Title|Function
+advanced-bonfires.json 	Algorithm	 Validate US Telephone Numbers 	 telephoneCheck		
+advanced-bonfires.json 	Algorithm	 Symmetric Difference 	 sym		
+advanced-bonfires.json 	Algorithm	 Exact Change 	 drawer	x	advanced-bonfires.json |Algorithm| Exact Change | drawer
+advanced-bonfires.json 	Algorithm	 Inventory Update 	 inventory	x	advanced-bonfires.json |Algorithm| Inventory Update | inventory
+advanced-bonfires.json 	Algorithm	 No repeats please 	 permAlone		
+advanced-bonfires.json 	Algorithm	 Friendly Date Ranges 	 friendly	x	advanced-bonfires.json |Algorithm| Friendly Date Ranges | friendly
+advanced-bonfires.json 	Algorithm	 Map the Debris 	 orbitalPeriod		
+advanced-bonfires.json 	Algorithm	 Pairwise 	 pairwise		
+basic-bonfires.json 	Algorithm	 Reverse a String 	 reverseString		
+basic-bonfires.json 	Algorithm	 Factorialize a Number 	 factorialize		
+basic-bonfires.json 	Algorithm	 Check for Palindromes 	 palindrome		
+basic-bonfires.json 	Algorithm	 Find the Longest Word in a String 	 findLongestWord		
+basic-bonfires.json 	Algorithm	 Title Case a Sentence 	 titleCase		
+basic-bonfires.json 	Algorithm	 Return Largest Numbers in Arrays 	 largestOfFour		
+basic-bonfires.json 	Algorithm	 Confirm the Ending 	 end	x	basic-bonfires.json |Algorithm| Confirm the Ending | end
+basic-bonfires.json 	Algorithm	 Repeat a string repeat a string 	 repeat	x	basic-bonfires.json |Algorithm| Repeat a string repeat a string | repeat
+basic-bonfires.json 	Algorithm	 Truncate a string 	 truncate	x	basic-bonfires.json |Algorithm| Truncate a string | truncate
+basic-bonfires.json 	Algorithm	 Chunky Monkey 	 chunk	x	basic-bonfires.json |Algorithm| Chunky Monkey | chunk
+basic-bonfires.json 	Algorithm	 Slasher Flick 	 slasher		
+basic-bonfires.json 	Algorithm	 Mutations 	 mutation		
+basic-bonfires.json 	Algorithm	 Falsy Bouncer 	 bouncer		
+basic-bonfires.json 	Algorithm	 Seek and Destroy 	 destroyer		
+basic-bonfires.json 	Algorithm	 Where do I belong 	 where	x	basic-bonfires.json |Algorithm| Where do I belong | where
+basic-bonfires.json 	Algorithm	 Caesars Cipher 	 rot13		
+basic-javascript.json 	Algorithm	 Convert Celsius to Fahrenheit 	 convert	x	basic-javascript.json |Algorithm| Convert Celsius to Fahrenheit | convert
+basic-javascript.json 	Algorithm	 Word Blanks 	 wordBlanks		
+basic-javascript.json 	Challenge	 Write Reusable JavaScript with Functions 	 ourFunction	x	basic-javascript.json |Challenge| Write Reusable JavaScript with Functions | ourFunction
+basic-javascript.json 	Challenge	 Passing Values to Functions with Arguments 	 ourFunction	x	basic-javascript.json |Challenge| Passing Values to Functions with Arguments | ourFunction
+basic-javascript.json 	Challenge	 Global Scope and Functions 	 fun1		
+basic-javascript.json 	Challenge	 Global Scope and Functions 	 fun2		
+basic-javascript.json 	Challenge	 Local Scope and Functions 	 myFunction	x	basic-javascript.json |Challenge| Local Scope and Functions | myFunction
+basic-javascript.json 	Challenge	 Global vs. Local Scope in Functions 	 myFunction	x	basic-javascript.json |Challenge| Global vs. Local Scope in Functions | myFunction
+basic-javascript.json 	Challenge	 Return a Value from a Function with Return 	 minusSeven		
+basic-javascript.json 	Challenge	 Assignment with a Returned Value 	 change	x	basic-javascript.json |Challenge| Assignment with a Returned Value | change
+basic-javascript.json 	Challenge	 Assignment with a Returned Value 	 process	x	basic-javascript.json |Challenge| Assignment with a Returned Value | process
+basic-javascript.json 	Algorithm	 Stand in Line 	 queue	x	basic-javascript.json |Algorithm| Stand in Line | queue
+basic-javascript.json 	Challenge	 Understanding Boolean Values 	 welcomeToBooleans		
+basic-javascript.json 	Challenge	 Use Conditional Logic with If Statements 	 ourFunction	x	basic-javascript.json |Challenge| Use Conditional Logic with If Statements | ourFunction
+basic-javascript.json 	Challenge	 Use Conditional Logic with If Statements 	 myFunction	x	basic-javascript.json |Challenge| Use Conditional Logic with If Statements | myFunction
+basic-javascript.json 	Challenge	 Comparison with the Equality Operator 	 myTest	x	basic-javascript.json |Challenge| Comparison with the Equality Operator | myTest
+basic-javascript.json 	Challenge	 Comparison with the Strict Equality Operator 	 myTest	x	basic-javascript.json |Challenge| Comparison with the Strict Equality Operator | myTest
+basic-javascript.json 	Challenge	 Comparison with the Inequality Operator 	 myTest	x	basic-javascript.json |Challenge| Comparison with the Inequality Operator | myTest
+basic-javascript.json 	Challenge	 Comparison with the Strict Inequality Operator 	 myTest	x	basic-javascript.json |Challenge| Comparison with the Strict Inequality Operator | myTest
+basic-javascript.json 	Challenge	 Comparison with the Greater Than Operator 	 myTest	x	basic-javascript.json |Challenge| Comparison with the Greater Than Operator | myTest
+basic-javascript.json 	Challenge	 Comparison with the Greater Than Or Equal To Operator 	 myTest	x	basic-javascript.json |Challenge| Comparison with the Greater Than Or Equal To Operator | myTest
+basic-javascript.json 	Challenge	 Comparison with the Less Than Operator 	 myTest	x	basic-javascript.json |Challenge| Comparison with the Less Than Operator | myTest
+basic-javascript.json 	Challenge	 Comparison with the Less Than Or Equal To Operator 	 myTest	x	basic-javascript.json |Challenge| Comparison with the Less Than Or Equal To Operator | myTest
+basic-javascript.json 	Challenge	 Comparisons with the Logical And Operator 	 myTest	x	basic-javascript.json |Challenge| Comparisons with the Logical And Operator | myTest
+basic-javascript.json 	Challenge	 Comparisons with the Logical Or Operator 	 myTest	x	basic-javascript.json |Challenge| Comparisons with the Logical Or Operator | myTest
+basic-javascript.json 	Challenge	 Introducing Else Statements 	 myTest	x	basic-javascript.json |Challenge| Introducing Else Statements | myTest
+basic-javascript.json 	Challenge	 Introducing Else If Statements 	 myTest	x	basic-javascript.json |Challenge| Introducing Else If Statements | myTest
+basic-javascript.json 	Challenge	 Logical Order in If Else Statements 	 myTest	x	basic-javascript.json |Challenge| Logical Order in If Else Statements | myTest
+basic-javascript.json 	Challenge	 Chaining If Else Statements 	 myTest	x	basic-javascript.json |Challenge| Chaining If Else Statements | myTest
+basic-javascript.json 	Algorithm	 Golf Code 	 golfScore		
+basic-javascript.json 	Challenge	 Selecting from many options with Switch Statements 	 myTest	x	basic-javascript.json |Challenge| Selecting from many options with Switch Statements | myTest
+basic-javascript.json 	Challenge	 Adding a default option in Switch statements 	 myTest	x	basic-javascript.json |Challenge| Adding a default option in Switch statements | myTest
+basic-javascript.json 	Challenge	 Multiple Identical Options in Switch Statements 	 myTest	x	basic-javascript.json |Challenge| Multiple Identical Options in Switch Statements | myTest
+basic-javascript.json 	Challenge	 Replacing If Else Chains with Switch 	 myTest	x	basic-javascript.json |Challenge| Replacing If Else Chains with Switch | myTest
+basic-javascript.json 	Challenge	 Returning Boolean Values from Functions 	 isLess		
+basic-javascript.json 	Challenge	 Return Early Pattern for Functions 	 abTest		
+basic-javascript.json 	Algorithm	 Counting Cards 	 cc		
+basic-javascript.json 	Challenge	 Using Objects for Lookups 	 phoneticLookup		
+basic-javascript.json 	Challenge	 Testing Objects for Properties 	 checkObj		
+basic-javascript.json 	Algorithm	 Record Collection 	 update	x	basic-javascript.json |Algorithm| Record Collection | update
+basic-javascript.json 	Challenge	 Nesting For Loops 	 multiplyAll		
+basic-javascript.json 	Algorithm	 Profile Lookup 	 lookUp	x	basic-javascript.json |Algorithm| Profile Lookup | lookUp
+basic-javascript.json 	Challenge	 Generate Random Fractions with JavaScript 	 myFunction	x	basic-javascript.json |Challenge| Generate Random Fractions with JavaScript | myFunction
+basic-javascript.json 	Challenge	 Generate Random Whole Numbers with JavaScript 	 myFunction	x	basic-javascript.json |Challenge| Generate Random Whole Numbers with JavaScript | myFunction
+basic-javascript.json 	Challenge	 Generate Random Whole Numbers within a Range 	 ourFunction	x	basic-javascript.json |Challenge| Generate Random Whole Numbers within a Range | ourFunction
+basic-javascript.json 	Challenge	 Generate Random Whole Numbers within a Range 	 randomRange		
+basic-javascript.json 	Challenge	 Create a JavaScript Slot Machine 	 runSlots	x	basic-javascript.json |Challenge| Create a JavaScript Slot Machine | runSlots
+basic-javascript.json 	Challenge	 Add your JavaScript Slot Machine Slots 	 runSlots	x	basic-javascript.json |Challenge| Add your JavaScript Slot Machine Slots | runSlots
+basic-javascript.json 	Challenge	 Bring your JavaScript Slot Machine to Life 	 runSlots	x	basic-javascript.json |Challenge| Bring your JavaScript Slot Machine to Life | runSlots
+basic-javascript.json 	Challenge	 Give your JavaScript Slot Machine some Stylish Images 	 runSlots	x	basic-javascript.json |Challenge| Give your JavaScript Slot Machine some Stylish Images | runSlots
+intermediate-bonfires.json 	Algorithm	 Sum All Numbers in a Range 	 sumAll		
+intermediate-bonfires.json 	Algorithm	 Diff Two Arrays 	 diff	x	intermediate-bonfires.json |Algorithm| Diff Two Arrays | diff
+intermediate-bonfires.json 	Algorithm	 Roman Numeral Converter 	 convert	x	intermediate-bonfires.json |Algorithm| Roman Numeral Converter | convert
+intermediate-bonfires.json 	Algorithm	 Where art thou 	 where	x	intermediate-bonfires.json |Algorithm| Where art thou | where
+intermediate-bonfires.json 	Algorithm	 Search and Replace 	 myReplace		
+intermediate-bonfires.json 	Algorithm	 Pig Latin 	 translate	x	intermediate-bonfires.json |Algorithm| Pig Latin | translate
+intermediate-bonfires.json 	Algorithm	 DNA Pairing 	 pair	x	intermediate-bonfires.json |Algorithm| DNA Pairing | pair
+intermediate-bonfires.json 	Algorithm	 Missing letters 	 fearNotLetter		
+intermediate-bonfires.json 	Algorithm	 Boo who 	 boo	x	intermediate-bonfires.json |Algorithm| Boo who | boo
+intermediate-bonfires.json 	Algorithm	 Sorted Union 	 unite	x	intermediate-bonfires.json |Algorithm| Sorted Union | unite
+intermediate-bonfires.json 	Algorithm	 Convert HTML Entities 	 convert	x	intermediate-bonfires.json |Algorithm| Convert HTML Entities | convert
+intermediate-bonfires.json 	Algorithm	 Spinal Tap Case 	 spinalCase		
+intermediate-bonfires.json 	Algorithm	 Sum All Odd Fibonacci Numbers 	 sumFibs		
+intermediate-bonfires.json 	Algorithm	 Sum All Primes 	 sumPrimes		
+intermediate-bonfires.json 	Algorithm	 Smallest Common Multiple 	 smallestCommons		
+intermediate-bonfires.json 	Algorithm	 Finders Keepers 	 find	x	intermediate-bonfires.json |Algorithm| Finders Keepers | find
+intermediate-bonfires.json 	Algorithm	 Drop it 	 drop	x	intermediate-bonfires.json |Algorithm| Drop it | drop
+intermediate-bonfires.json 	Algorithm	 Steamroller 	 steamroller		
+intermediate-bonfires.json 	Algorithm	 Binary Agents 	 binaryAgent		
+intermediate-bonfires.json 	Algorithm	 Everything Be True 	 every	x	intermediate-bonfires.json |Algorithm| Everything Be True | every
+intermediate-bonfires.json 	Algorithm	 Arguments Optional 	 add	x	intermediate-bonfires.json |Algorithm| Arguments Optional | add
